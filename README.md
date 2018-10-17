@@ -6,6 +6,7 @@
   Gabriel</a>.</p>
 	<p>Git: <a href="https://github.com/janadro">
   Janaine</a>.</p>
+	<p>Git: <a href="https://github.com/vishimideux">Valéria</a>.</p>
 </footer>
 
 
